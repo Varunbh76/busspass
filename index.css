@@ -1,0 +1,13 @@
+/* .over ul li:hover{
+    box-sizing: border-box;
+    border-bottom: 7px solid yellow;
+    
+   
+     
+} */
+ .sha{
+    box-shadow: -4px 2px 20px -10px;
+ }
+ .grey p{
+    color: grey;
+ }
